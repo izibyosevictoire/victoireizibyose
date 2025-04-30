@@ -4,7 +4,7 @@
 
 To clone this project to your local machine, run:
 ```bash
-https://github.com/izibyosevictoire/victoireizibyose
+[https://github.com/izibyosevictoire/victoireizibyose](https://github.com/izibyosevictoire/victoireizibyose.git)
 ```
 
 # Assignment 1 – Java Project with Docker
