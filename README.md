@@ -13,7 +13,7 @@ This repository contains a Java-based project (Assignment 1) packaged into a Doc
 
 ## Docker Image
 
-The Docker image is available on [Docker Hub](https://hub.docker.com/repository/docker/vicky700/assignment1).
+The Docker image is available on ```bash https://hub.docker.com/u/vicky700 ```.
 
 ### Pull the image:
 
