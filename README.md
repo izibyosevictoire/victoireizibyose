@@ -27,17 +27,25 @@ docker run -it vicky700/assignment1:v1
 ```
 ## Project Description 
 This project simulates multiple systems such as:
+
 Motor Vehicle Insurance System,
+
 Stock Management System,
+
 Online Shopping System.
+
 You can choose a system to run from the main menu when you start the application.
 
 ## Technologies Used
 JAVA
+
 DOCKER
 
 ## AUTHOR & CREDITS
 ID:26044
+
 Victoire Izibyose
+
 GitHub: @izibyosevictoire
+
 Docker Hub: vicky700
