@@ -33,7 +33,7 @@ public class Main {
                     System.out.println("Invalid choice. Please try again.");
             }
 
-            System.out.println(); // Line break for readability
+            System.out.println(); 
         }
 
         scanner.close();
